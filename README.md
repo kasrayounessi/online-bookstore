@@ -32,17 +32,17 @@ There are two files in this repository, backend and frontend.
 Backend must be opened inside a Java IDE, (Intellij Idea was used for this project) and it must be connected to the MySQL server. The name of the database required in the MySQL server is bookstore. Please adjust your MySQL root credentials inside the application.properties.
 
 In order to run the frontend, make sure you have npm package installed. we must run these commands inside the frontend directory.
-> npm install
-> npm start
+* npm install
+* npm start
 
 ## Usage
 
-> Please refer to the repository to view images of the frontend and sample backend responses.
+> Please refer to the repository to view images of the frontend (in two states of user being logged in and logged out) and sample backend responses. 
 
 ## Contributors
 
-> Kasra Younessi
-> Brandon Carrasco
+* Kasra Younessi
+* Brandon Carrasco
 
 ## License
 
