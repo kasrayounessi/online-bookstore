@@ -37,7 +37,7 @@ In order to run the frontend, make sure you have npm package installed. we must 
 
 ## Usage
 
-> Please refer to the repository to view images of the frontend (in two states of user being logged in and logged out) and sample backend responses. 
+* Please refer to the repository to view images of the frontend (in two states of user being logged in and logged out) and sample backend responses. 
 
 ## Contributors
 
